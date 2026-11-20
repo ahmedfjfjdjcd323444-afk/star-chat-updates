@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
-  "released_at": "2026-11-20T12:00:00Z",
+  "version": "1.0.1",
+  "released_at": "2026-11-20T16:22:26Z",
   "grace_days": 3,
   "grace_basis": "first_seen",
   "force_immediate": false,
-  "download_url": "",
+  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.1/StarChat-AutoUpdate-Source.zip",
   "installer_url": "",
   "exe_name": "StarChat.exe",
-  "sha256": "",
-  "changelog": "الإصدار الأساسي 1.0.0 مع دعم التحديث التلقائي."
+  "sha256": "b078477a118265df967ef147cff62a6411c18d8fbed3c00531c49b5dfa36ec5f",
+  "changelog": "تحديث Star Chat إلى الإصدار 1.0.1"
 }
