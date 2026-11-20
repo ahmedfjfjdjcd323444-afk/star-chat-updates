@@ -1,12 +1,12 @@
 {
-  "version": "1.0.2",
-  "released_at": "2026-11-20T17:42:59Z",
+  "version": "1.0.3",
+  "released_at": "2026-11-20T18:17:59Z",
   "grace_days": 3,
   "grace_basis": "first_seen",
   "force_immediate": false,
-  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.2/StarChat-Windows.zip",
-  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.2/StarChatInstaller.exe",
+  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.3/StarChat-Windows.zip",
+  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.3/StarChatInstaller.exe",
   "exe_name": "StarChat.exe",
-  "sha256": "2b09c81e2fc368c9359a229c8de86cdaf2cda9970105f503a455c07e2d75345c",
-  "changelog": "الإصدار 1.0.2: تطبيق StarChat.exe حقيقي جاهز للتشغيل المباشر - ملف مفرد يحتوي كل المكتبات و ffmpeg بداخله بدون أي مجلدات"
+  "sha256": "b94fa3980fd27f4608340889ffa050361955a407c3926c589ade6f42b60e794e",
+  "changelog": "الإصدار 1.0.3: رسائل صوتية في المحادثات الخاصة (تسجيل وإرسال واستماع) + قائمة سياقية مطابقة للمحادثة الجماعية (نسخ، روابط، حذف لدي، حذف للجميع)"
 }
