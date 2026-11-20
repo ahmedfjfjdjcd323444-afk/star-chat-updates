@@ -1,12 +1,12 @@
 {
-  "version": "1.0.1",
-  "released_at": "2026-11-20T17:20:49Z",
+  "version": "1.0.2",
+  "released_at": "2026-11-20T17:42:59Z",
   "grace_days": 3,
   "grace_basis": "first_seen",
   "force_immediate": false,
-  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.1/StarChat-AutoUpdate-Source.zip",
-  "installer_url": "",
+  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.2/StarChat-Windows.zip",
+  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.2/StarChatInstaller.exe",
   "exe_name": "StarChat.exe",
-  "sha256": "505e560123e6fc6bfcc0e6c700896a4c9b111c604d43d8a7161214c50981ef12",
-  "changelog": "تحديث 1.0.1: التطبيق الآن ملف مفرد StarChat.exe يحتوي كل المكتبات (بدون مجلدات)"
+  "sha256": "2b09c81e2fc368c9359a229c8de86cdaf2cda9970105f503a455c07e2d75345c",
+  "changelog": "الإصدار 1.0.2: تطبيق StarChat.exe حقيقي جاهز للتشغيل المباشر - ملف مفرد يحتوي كل المكتبات و ffmpeg بداخله بدون أي مجلدات"
 }
