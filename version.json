@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "released_at": "2026-11-20T12:00:00Z",
+  "grace_days": 3,
+  "grace_basis": "first_seen",
+  "force_immediate": false,
+  "download_url": "",
+  "installer_url": "",
+  "exe_name": "StarChat.exe",
+  "sha256": "",
+  "changelog": "الإصدار الأساسي 1.0.0 مع دعم التحديث التلقائي."
+}
