@@ -1,12 +1,12 @@
 {
-  "version": "1.0.6",
-  "released_at": "2026-11-21T06:38:56Z",
+  "version": "1.0.7",
+  "released_at": "2026-11-21T06:56:40Z",
   "grace_days": 3,
   "grace_basis": "first_seen",
   "force_immediate": false,
-  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.6/StarChat-Windows.zip",
-  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.6/StarChatInstaller.exe",
+  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.7/StarChat-Windows.zip",
+  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.7/StarChatInstaller.exe",
   "exe_name": "StarChat.exe",
-  "sha256": "f937acf03ec30fa5dd2685c6ae3fec9398daa4158cb0416f9b01a1d08510d560",
-  "changelog": "الإصدار 1.0.6: إرفاق الملفات في الجماعية والخاصة - رفع تلقائي ذكي (ملفات للأبد حتى 200MB + حتى 20GB للضخمة) مع تنزيل بالضغطة وشريط تقدم"
+  "sha256": "c18fffd3d89623687fd099ae79667c34018db1bc1b59cc77dde8911fefcebdd7",
+  "changelog": "الإصدار 1.0.7: إصلاح رفع Catbox (حقل fileToUpload) + إعادة المحاولة تلقائياً عند أخطاء SSL + دعم مفتاح Pixeldrain + احتياط مضمون عبر Supabase"
 }
