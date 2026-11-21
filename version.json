@@ -1,12 +1,12 @@
 {
-  "version": "1.1.4",
-  "released_at": "2026-11-21T10:58:55Z",
+  "version": "1.1.5",
+  "released_at": "2026-11-21T11:04:53Z",
   "grace_days": 3,
   "grace_basis": "first_seen",
   "force_immediate": false,
-  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.4/StarChat-Windows.zip",
-  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.4/StarChatInstaller.exe",
+  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.5/StarChat-Windows.zip",
+  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.5/StarChatInstaller.exe",
   "exe_name": "StarChat.exe",
-  "sha256": "f46ef02af46126193dc41307d4ece9d6430945411f04586753435002164324a2",
-  "changelog": "الإصدار 1.1.4: ميزة الرد على الرسائل (كلك يمين -> رد -> يظهر: اسمك رد على اسمه + نصك + الرسالة المقتبسة، والنقر عليها ينتقل للأصل) + عرض وقت رسائل الشات بتوقيت جهازك. ملاحظة: شغّل القسم 11 من ملف SQL لتفعيل الاقتباس في المحادثة الخاصة"
+  "sha256": "9a2de8d29ddae6937ca7136ff6c36d883bd5b38dfcd69b6b0474f66fcd51b1a7",
+  "changelog": "الإصدار 1.1.5: تحسين ميزة الرد - الجلب يعمل تلقائياً حتى قبل تشغيل القسم 11 من SQL، وبعد تشغيله تت akti الاقتباس بالكامل"
 }
