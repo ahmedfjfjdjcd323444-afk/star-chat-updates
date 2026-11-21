@@ -1,12 +1,12 @@
 {
-  "version": "1.0.9",
-  "released_at": "2026-11-21T08:10:29Z",
+  "version": "1.1.0",
+  "released_at": "2026-11-21T08:58:01Z",
   "grace_days": 3,
   "grace_basis": "first_seen",
   "force_immediate": false,
-  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.9/StarChat-Windows.zip",
-  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.9/StarChatInstaller.exe",
+  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.0/StarChat-Windows.zip",
+  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.0/StarChatInstaller.exe",
   "exe_name": "StarChat.exe",
-  "sha256": "e37641a9d8d592e426b34f744d44220072d04b132066b2cec8447822f7a7f6b6",
-  "changelog": "الإصدار 1.0.9: رفع الملفات الكبيرة بدون حساب وبدون كابتشا عبر Filebin مباشرة + تجاوز تلقائي للبوابات الوسيطة عند التنزيل"
+  "sha256": "f91141028fde7bdd2c464c53e191d2a92744c6af94fdd6e356a185988b1705bd",
+  "changelog": "الإصدار 1.1.0: إعداد Pixeldrain من داخل التطبيق (دخول بالإيميل وباسورد أو رابط سحري أو لصق مفتاح) - بدون أي كابتشا وبدون ملفات reg - فقط شارك التطبيق!"
 }
