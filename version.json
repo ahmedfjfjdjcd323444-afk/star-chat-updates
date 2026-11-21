@@ -1,12 +1,12 @@
 {
-  "version": "1.1.2",
-  "released_at": "2026-11-21T09:46:25Z",
+  "version": "1.1.3",
+  "released_at": "2026-11-21T10:17:33Z",
   "grace_days": 3,
   "grace_basis": "first_seen",
   "force_immediate": false,
-  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.2/StarChat-Windows.zip",
-  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.2/StarChatInstaller.exe",
+  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.3/StarChat-Windows.zip",
+  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.3/StarChatInstaller.exe",
   "exe_name": "StarChat.exe",
-  "sha256": "d0d3aac3a0ba0d4cdd9975d79eefd4b80e84b34dc576ccc0008fea1d4651cd40",
-  "changelog": "الإصدار 1.1.2: ترجمة الإنجليزية للواجهة بالكامل 100% - كل النصوص الديناميكية ولوحة المطور وتفاصيل التذاكر والتبويبات والقوائم المنسدلة"
+  "sha256": "13aedbda2e7952c9ce3a0ac7a50014e6773444493143bbb5784377b8dd2ed385",
+  "changelog": "الإصدار 1.1.3: عرض كل الأوقات (رسائل التذاكر وتفاصيلها) بتوقيت جهازك المحلي بدلاً من توقيت السيرفر UTC"
 }
