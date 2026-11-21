@@ -1,12 +1,12 @@
 {
-  "version": "1.1.6",
-  "released_at": "2026-11-21T13:39:54Z",
+  "version": "1.1.7",
+  "released_at": "2026-11-21T13:49:07Z",
   "grace_days": 3,
   "grace_basis": "first_seen",
   "force_immediate": false,
-  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.6/StarChat-Windows.zip",
-  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.6/StarChatInstaller.exe",
+  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.7/StarChat-Windows.zip",
+  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.7/StarChatInstaller.exe",
   "exe_name": "StarChat.exe",
-  "sha256": "b561d28d3b4a840052fc901e6ee80be58bf63e57814a43c9ddbc54d16f338799",
-  "changelog": "الإصدار 1.1.6: صياغة فصحى رسمية لكل رسائل التطبيق (لا يوجد حساب بهذا الاسم، ليس لديك رسائل حالياً...) مع الإبقاء على الأزرار بالفصحى، وإضافة رسالة لحالة عدم وجود رسائل"
+  "sha256": "3926eda2ab72a4b2822bb3a059a6c6df0c2a92e08bdd288a22f4bc6b73d7c743",
+  "changelog": "الإصدار 1.1.7: إبقاء قوائم الرسائل (الجماعية والخاصة) فارغة تماماً عند عدم وجود رسائل، مع بقاء رسالة التذاكر كما هي"
 }
