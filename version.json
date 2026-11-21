@@ -1,12 +1,12 @@
 {
-  "version": "1.0.5",
-  "released_at": "2026-11-20T19:56:23Z",
+  "version": "1.0.6",
+  "released_at": "2026-11-21T06:38:56Z",
   "grace_days": 3,
   "grace_basis": "first_seen",
   "force_immediate": false,
-  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.5/StarChat-Windows.zip",
-  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.5/StarChatInstaller.exe",
+  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.6/StarChat-Windows.zip",
+  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.0.6/StarChatInstaller.exe",
   "exe_name": "StarChat.exe",
-  "sha256": "4d3642b620fba3f46174ec301c47a2cbf025cbf982f3df3c6e039b90dab0cc4f",
-  "changelog": "الإصدار 1.0.5: الإصدار مدمج داخل التطبيق نفسه (يظهر بخصائص الملف) + المثبت يبحث عن النسخة الموجودة في كامل الويندوز ويحدثها بمكانها أو يثبت نسخة جديدة مع اختصار سطح المكتب"
+  "sha256": "f937acf03ec30fa5dd2685c6ae3fec9398daa4158cb0416f9b01a1d08510d560",
+  "changelog": "الإصدار 1.0.6: إرفاق الملفات في الجماعية والخاصة - رفع تلقائي ذكي (ملفات للأبد حتى 200MB + حتى 20GB للضخمة) مع تنزيل بالضغطة وشريط تقدم"
 }
