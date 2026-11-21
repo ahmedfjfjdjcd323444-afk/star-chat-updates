@@ -8,5 +8,5 @@
   "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.5/StarChatInstaller.exe",
   "exe_name": "StarChat.exe",
   "sha256": "9a2de8d29ddae6937ca7136ff6c36d883bd5b38dfcd69b6b0474f66fcd51b1a7",
-  "changelog": "الإصدار 1.1.5: تحسين ميزة الرد - الجلب يعمل تلقائياً حتى قبل تشغيل القسم 11 من SQL، وبعد تشغيله تت akti الاقتباس بالكامل"
+  "changelog": "الإصدار 1.1.5: تحسين ميزة الرد - الجلب يعمل تلقائياً حتى قبل تشغيل القسم 11 من SQL، وبعد تشغيله تعمل ميزة الاقتباس بالكامل"
 }
