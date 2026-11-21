@@ -1,12 +1,12 @@
 {
-  "version": "1.1.0",
-  "released_at": "2026-11-21T08:58:01Z",
+  "version": "1.1.1",
+  "released_at": "2026-11-21T09:24:55Z",
   "grace_days": 3,
   "grace_basis": "first_seen",
   "force_immediate": false,
-  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.0/StarChat-Windows.zip",
-  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.0/StarChatInstaller.exe",
+  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.1/StarChat-Windows.zip",
+  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.1/StarChatInstaller.exe",
   "exe_name": "StarChat.exe",
-  "sha256": "f91141028fde7bdd2c464c53e191d2a92744c6af94fdd6e356a185988b1705bd",
-  "changelog": "الإصدار 1.1.0: إعداد Pixeldrain من داخل التطبيق (دخول بالإيميل وباسورد أو رابط سحري أو لصق مفتاح) - بدون أي كابتشا وبدون ملفات reg - فقط شارك التطبيق!"
+  "sha256": "b010798e4ee5151e24f9313f95f8d7ee74b7bd0b594c4018d7e2c048bcc69e16",
+  "changelog": "الإصدار 1.1.1: إضافة اللغة الإنجليزية - اختيار اللغة (عربية/إنجليزية) من الإعدادات مع الحفظ في سجل الويندوز وتطبيقها على الواجهة كلها"
 }
