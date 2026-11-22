@@ -1,12 +1,12 @@
 {
-  "version": "1.1.8",
-  "released_at": "2026-11-21T13:56:54Z",
+  "version": "1.2.0",
+  "released_at": "2026-11-22T15:10:03Z",
   "grace_days": 3,
   "grace_basis": "first_seen",
   "force_immediate": false,
-  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.8/StarChat-Windows.zip",
-  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.1.8/StarChatInstaller.exe",
+  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.2.0/StarChat-Windows-v1.2.0.zip",
+  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.2.0/StarChatInstaller.exe",
   "exe_name": "StarChat.exe",
-  "sha256": "e1ea0bbb38cf0d4f2fd164d1b6d4faead9f460ad7e976f5ec06b44afec4c5e2c",
-  "changelog": "الإصدار 1.1.8: إصلاح تراكم نسخ المثبت في مجلد Temp الذي كان يثقل الجهاز - الآن النسخ تُستبدل بدل التراكم، والمثبت يحذف نفسه من Temp بعد الإغلاق، مع مسح تلقائي للملفات القديمة"
+  "sha256": "ac24407a36291f2e8abc8a57ec9867f7b5497e0a666739732faa423a01d98f04",
+  "changelog": "جديد: المكالمات الصوتية والمرئية (WebRTC) بين الأصدقاء - اتصال مباشر بين الجهازين عبر STUN، مع خادم TURN احتياطي قابل للإعداد من الإعدادات لتمرير الصوت والصورة عند تعذر الاتصال المباشر. نافذة مكالمة مع فيديو مباشر وكتم وإيقاف كاميرا ومؤقت. ملاحظة: تتطلب المكالمات تنفيذ القسم 13 من ملف SQL في قاعدة البيانات."
 }
