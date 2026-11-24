@@ -1,12 +1,12 @@
 {
-  "version": "1.2.1",
-  "released_at": "2026-11-23T18:59:27Z",
+  "version": "1.2.2",
+  "released_at": "2026-11-24T06:00:00Z",
   "grace_days": 3,
   "grace_basis": "first_seen",
   "force_immediate": false,
-  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.2.1/StarChat-Windows-v1.2.1.zip",
-  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.2.1/StarChatInstaller.exe",
+  "download_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.2.2/StarChat-Windows-v1.2.2.zip",
+  "installer_url": "https://github.com/ahmedfjfjdjcd323444-afk/star-chat-updates/releases/download/v1.2.2/StarChatInstaller.exe",
   "exe_name": "StarChat.exe",
-  "sha256": "9fcf4315fe88a181bfbeac94317643146478ec8fa36700365df0a2702c9a9088",
-  "changelog": "خادم TURN الموحّد من Cloudflare: مفتاح واحد لجميع المستخدمين يُخزن بأمان في قاعدة البيانات ويولّد بيانات اعتماد مؤقتة لكل مكالمة تلقائياً. جديد بلوحة المطور: تبويب المكالمات (تشغيل/إيقاف المكالمات + عدّاد الاستهلاك التقديري GB + المتبقي من الخطة المجانية + تخزين مفتاح Cloudflare). أي مستخدم يستطيع إضافة مفتاح Cloudflare شخصي من الإعدادات عند انتهاء الخطة المجانية. يتطلب تنفيذ القسم 14 من ملف SQL."
+  "sha256": "78f59e5a98a9da455ea9a03678dc946f47389017ea84cba2d001709b4db0d40d",
+  "changelog": "خادم TURN الموحّد بدون بطاقة بنكية: يدعم الآن ExpressTURN (أو أي خادم TURN ثابت) - تسجل مجاناً وانسخ ثلاث قيم فقط (الخادم/المستخدم/كلمة المرور) والصقها بلوحة المطور تبويب المكالمات. لا توكن ولا API. يعمل لجميع المستخدمين تلقائياً مع عدّاد الاستهلاك وزر تشغيل/إيقاف المكالمات. يتطلب تنفيذ القسم 14 من ملف SQL."
 }
